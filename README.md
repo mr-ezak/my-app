@@ -1,4 +1,4 @@
-## A simple nextjs app
+# A simple nextjs app
 
 - [x] Create the project
 - [ ] Update the website
